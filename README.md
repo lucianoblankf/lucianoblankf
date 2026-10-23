@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" alt="Luciano Blank Fonseca" width="180" />
-
 # Luciano Blank Fonseca
 
 **Financial Data Scientist & Risk Analyst**
